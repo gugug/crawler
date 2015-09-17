@@ -56,3 +56,4 @@ def crawler():
         file.close()#关闭文件
     return i
 print crawler()
+
